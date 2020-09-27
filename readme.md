@@ -1,5 +1,7 @@
 A list of all questions along with solutions to each and every problem in the leetcode's [Top Interview questions list](https://leetcode.com/problemset/all/?listId=wpwgkgt).
 
+**NOTE : Not all solution are available currently, this is still a work in progress**
+
 | Ques. no | Link                                                                                                     | Solution                                                | Time            | Space       | Technique        |
 | -------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------- | ----------- | ---------------- |
 | 7        | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                                         | [Reverse Integer Solution](./ReverseInteger.java)       | O(log N)        | O(1)        | Math             |
