@@ -52,6 +52,8 @@ A list of all questions along with solutions to each and every problem in the le
 | 150      | [ Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                         | [Reverse Polish Notation](./ReversePolish.java)                   | O(n)            | O(n)        | Stack            |
 | 227      | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)                                                                    | [Basic Calculator II Solution](./BasicCalc2.java)                 | O(n)            | O(n)        | Logic            |
 | 138      | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                                | [Copy List Random Pointer Solution](./CopyListRandomPointer.java) | O(n)            | O(n)        | Linked List      |
+| 56       | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                            | [Merge Intervals Solution](./MergeIntervals.java)                 | O(nlogn)        | O(n)        | Sorting          |
+| 297      | [ Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                               | [Binary Tree Serialize and Deserialize](./CodecBinaryTree.java)   | O(n)            | O(n)        | Trees            |
 
 #### TODOS
 
